@@ -8,7 +8,6 @@ public class Tema3 {
         int suma = (operand1 + operand2);
         /**afisare suma*/
         System.out.println(suma);
-//tt
     }
 }
 
