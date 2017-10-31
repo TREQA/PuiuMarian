@@ -1,3 +1,4 @@
+// salvare an, salariu, functie double
 public class Tema5 {
     public static void main(String[] args){
         int years;

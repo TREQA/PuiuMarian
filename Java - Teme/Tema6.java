@@ -1,3 +1,5 @@
+// redenumire strings conform modelului propus
+
 public class Tema6 {
 
     String firstUserName;

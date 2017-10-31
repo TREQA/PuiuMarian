@@ -1,3 +1,5 @@
+// afisari multiple a doua numere plus suma lor
+
 public class Tema4 {
     public static void main (String[] args){
         int a = 2;

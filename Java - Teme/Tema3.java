@@ -1,3 +1,5 @@
+// Calculare suma a doua numere + afisare rezultat
+
 public class Tema3 {
     public static void main(String[] args) {
         /**operator unu*/
