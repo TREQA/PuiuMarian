@@ -1,4 +1,8 @@
 // cod modificat pt a fi corect
+
+/*
+
+
 public class Tema12 {
     public static void main(String[] args) {
         if (x==y){}
