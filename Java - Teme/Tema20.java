@@ -8,11 +8,11 @@ public class Tema20 {
 
     public static void main(String []args){
 
-        Tema20 c = new Tema20();
-        c.operand1 = 2;
-        c.operand2 = 5;
-        c.operator = '+';
-        System.out.println(c.calculate());
+        Tema20 t = new Tema20();
+        t.operand1 = 2;
+        t.operand2 = 5;
+        t.operator = '+';
+        System.out.println(t.calculate());
     }
 
     double operand1;
@@ -42,8 +42,6 @@ public class Tema20 {
             default:
                 result = 0;
                 break;
-
-
         }
         return result;
     }
