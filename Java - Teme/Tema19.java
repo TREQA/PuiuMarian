@@ -1,7 +1,7 @@
 // trebuie creata clasa Animal care va fi definita ca una abstracta, iar apoi trebuie create doua clase
 // Horse si Dog care vor mosteni prima clasa Animal
 
-public abstract class Animal{
+abstract class Animal{
 
 }
 class Horse extends Animal{
@@ -14,8 +14,8 @@ class Dog extends Animal{
 
 // trebuie executata instantierea claselor din exercitiul precedent
 
-Horse horse = new Horse();
-Dog dog = new Dog();
+    Horse horse = new Horse();
+    Dog dog = new Dog();
 
 /*
 Raspunsuri intrebari:
