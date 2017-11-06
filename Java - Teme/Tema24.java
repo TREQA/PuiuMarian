@@ -5,6 +5,6 @@ public class Tema24{
         Square s = new Square();
         s.setxya(100,100,5);
         System.out.println(s.area());
-        System.out.println(s.perimeter());
+        System.out.println(s.perimetru());
     }
 }

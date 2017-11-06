@@ -5,7 +5,7 @@ trebuie creata clasa Square care mosteneste clasa Quad si implementeaza interfat
 trebuie creata o isntanta a clasei Square in programul principal
  */
 interface Tema23 {
-    int arae();
+    int area();
     int perimetru();
 }
 abstract class Quad{
@@ -20,7 +20,7 @@ class Square extends Quad implements Tema23{
         return a*a;
     }
     @Override
-    public int perimeter(){
+    public int perimetru(){
         return 4*this.a;
     }
     @Override
