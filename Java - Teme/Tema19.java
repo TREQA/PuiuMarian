@@ -16,6 +16,7 @@ class Dog extends Animal{
 
     Horse horse = new Horse();
     Dog dog = new Dog();
+}
 
 /*
 Raspunsuri intrebari:
