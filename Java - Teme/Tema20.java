@@ -1,3 +1,5 @@
+// Java Programarea orientata pe obiecte > Elementele clasei
+
 // trebuie creata clasa Calculator ( de buzunar ) care are trei proprietati:
 // operand1, operand2 si operator. Clasa poseda medota calculate() care, pe baza operatorului,
 // executa operatia de calcul adecvata asupra operanzilor si returneaza un rezultat.

@@ -1,3 +1,5 @@
+// Java Programarea orientata pe obiecte > Clase abstracte si interfete
+
 /*
 sunt necesare doua interfete pentru aplicatia calculator(de buzunar): operands si operations.
 operands contine semnatura metodei setOperands care pune operanzii la valorile initiale, in timp ce

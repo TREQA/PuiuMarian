@@ -1,3 +1,5 @@
+// Java Programarea orientata pe obiecte > Clase abstracte si interfete
+
 //continuare tema 25 si tema 26
 public class Tema27 implements Tema26, Tema25 {
     public double a;

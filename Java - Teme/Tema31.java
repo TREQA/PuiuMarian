@@ -1,3 +1,5 @@
+// Java > Tipurile de date obiectuale > Stringurile
+
 /*
 Datele intra in aplicatie prin intermediul urmatorului string:
 String users = "firstName: Vladimir | lastName: Vladimirovic| firstName: Jovan | lastName: Jovanovici | firstName: Petar | lastName: Petrovic";

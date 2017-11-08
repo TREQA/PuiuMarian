@@ -1,4 +1,7 @@
+// Java Programarea orientata pe obiecte > Clase abstracte si interfete
+
 // continuare Product
+
 
 public class Pizza extends Product{
     public Pizza(String name, double price){

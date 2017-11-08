@@ -1,3 +1,5 @@
+// Java > Tipurile de date obiectuale > Stringurile
+
 /*
 datele intra in aplicatie prin intermediul urmatoarelor doua stringuri:
 String [] forbiddenChars = {"<", ">", "'"};

@@ -1,3 +1,5 @@
+// Java Programarea orientata pe obiecte > Mostenirea si polimorfismul
+
 /*
 Trebuie creata o clasa Shape care va contine unele datea referitoare la forma geometrica, precum: pozitia (x,y), culoarea si denumirea.
 Trebuie create trei clase care vor mosteni clasa Shape. O clasa trebuie creata pentru cerc, una pentru patrat si una pentru dreptunghi.

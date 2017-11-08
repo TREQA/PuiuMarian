@@ -1,3 +1,5 @@
+// Java Programarea orientata pe obiecte > Clase abstracte si interfete
+
 //continuare tema23
 
 public class Tema24{

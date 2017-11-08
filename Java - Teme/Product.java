@@ -1,4 +1,4 @@
-//
+// Java Programarea orientata pe obiecte > Clase abstracte si interfete
 
 public abstract class Product {
     public int type;

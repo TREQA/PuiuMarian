@@ -1,3 +1,5 @@
+// Java > Tipurile de date obiectuale > Stringurile
+
 /*
 in aplicatie intra o lista de fisiere sub forma unui string. Trebuie recunoscute doar fisierele de tip jpg, png sau gif
 prin utilizarea  extensiilor acestora, si afisat un mesaj despre tipul lor la iesire:

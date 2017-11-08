@@ -1,3 +1,7 @@
+// Java Programarea orientata pe obiecte > Clase abstracte si interfete
+
+// continuare produs
+
 public class Tema22b {
     public static void main(String[] args){
         Pizza p = new Pizza("Cappriciosa", 25);

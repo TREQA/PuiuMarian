@@ -1,3 +1,5 @@
+// Java Programarea orientata pe obiecte > Pachetele
+
 /*
 Raspunsuri intrebari:
 1.a

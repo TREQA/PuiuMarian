@@ -1,3 +1,5 @@
+// Java Programarea orientata pe obiecte > Clase si obiecte
+
 // trebuie creata clasa Animal care va fi definita ca una abstracta, iar apoi trebuie create doua clase
 // Horse si Dog care vor mosteni prima clasa Animal
 

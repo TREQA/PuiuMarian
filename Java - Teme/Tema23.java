@@ -1,3 +1,5 @@
+// Java Programarea orientata pe obiecte > Clase abstracte si interfete
+
 /*
 trebuie creata o clasa abstracta Quad care va contine 3 campuri (x, y si a) si o metoda abstracta (Setxya)
 trebuie creata interfata IGeom care va contine semnaturile metodelor pentru calcularea ariei si perimetrului

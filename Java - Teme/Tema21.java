@@ -1,3 +1,5 @@
+// Java Programarea orientata pe obiecte > Elementele clasei
+
 /*
 Trebuie create 3 clase. Prima este clasa Circle si ea contine proprietatea r(raza).
 A doua clasa este Rectangle si contine proprietatile a si b.

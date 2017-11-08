@@ -1,3 +1,5 @@
+// Java > Tipurile de date obiectuale > Stringurile
+
 /*
 in aplicatie intra o secventa de stringuri. Dimensiunea permisa a acestor stringuri la iesire este de 25 de caractere,
 insa unele dintre ele sunt mai mai mari de atat la iesire.
