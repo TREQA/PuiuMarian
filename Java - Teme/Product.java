@@ -1,3 +1,5 @@
+//
+
 public abstract class Product {
     public int type;
     public String name;

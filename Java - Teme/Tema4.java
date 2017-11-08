@@ -1,3 +1,4 @@
+// Introducere in Java si in mediul sau > Sintaxa
 // afisari multiple a doua numere plus suma lor
 
 public class Tema4 {

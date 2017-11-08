@@ -1,3 +1,5 @@
+// Java Controlul fluxului, buclele si ramificare > FOR
+
 // cu ajutorul buclei for, trebuie sa copiem acest sir in sirul arr1, unde toti membrii cu valoarea -1 trebuie inlocuiti cu valoarea -
 // arr1 trebuie afisat apoi la iesire
 

@@ -1,3 +1,5 @@
+// continuare Product
+
 public class Pizza extends Product{
     public Pizza(String name, double price){
         this.additions=new String[10];

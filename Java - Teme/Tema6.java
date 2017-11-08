@@ -1,3 +1,4 @@
+// // Java Tipuri de date si operatori > > Variabile
 // redenumire strings conform modelului propus
 
 public class Tema6 {

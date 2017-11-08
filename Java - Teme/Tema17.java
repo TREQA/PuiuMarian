@@ -1,3 +1,5 @@
+// Java Controlul fluxului, buclele si ramificare > WHILE and DO WHILE
+
 // trebuie sa listam sirul dat folosing bucla while
 public class Tema17 {
     public static void main(String[]args){

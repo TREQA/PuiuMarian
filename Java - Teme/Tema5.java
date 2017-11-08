@@ -1,3 +1,4 @@
+// Java Tipuri de date si operatori > Introducere tipuri de date
 // salvare an, salariu, functie double
 public class Tema5 {
     public static void main(String[] args){
