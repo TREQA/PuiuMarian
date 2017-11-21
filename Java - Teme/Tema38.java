@@ -22,10 +22,11 @@ Instantiati aceasta clasa pentru proiectul main.
 
  */
 
-InvalidEmailException extends Exception{}
-InvalidFirstNameException extends Exception{}
-InvalidLastNameException extends Exception{}
-InvalidIdException extends Exception{}
+//InvalidEmailException extends Exception{}
+//InvalidFirstNameException extends Exception{}
+//InvalidLastNameException extends Exception{}
+//InvalidIdException extends Exception{}
+
 
 public class Tema38 {
 

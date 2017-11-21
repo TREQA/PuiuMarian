@@ -1,21 +1,30 @@
 //Java > Gestionarea si generarea exceptiilor > Gestionarea si generarea exceptiilor in Java
 //Continuare tema38
+
+
+
+
 public class Tema39 {
+
      public static void main(String[]args){
             try{
                 Tema38 u = new Tema38(10, "Petar", "Petrovic", "petrov@mail.mm");
 
             }catch (InvalidIdException ex){
-                System.out.prinln("Id incorect");
+                System.out.println("Id incorect");
             }catch(InvalidFirstNameException ex){
-                System.out.prinln("Nume incorect");
+                System.out.println("Nume incorect");
             }catch (InvalidLastNameException ex){
-                System.out.prinln("prenume incorect");
+                System.out.println("prenume incorect");
             }catch (InvalidEmailException ex){
                 System.out.println("Email incorect");
             }
         }
 }
+
+
+
+
 
 /*
 Rezultate exercitii:
