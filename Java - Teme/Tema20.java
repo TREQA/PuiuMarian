@@ -5,7 +5,6 @@
 // executa operatia de calcul adecvata asupra operanzilor si returneaza un rezultat.
 // Sunt suficiente cele 4 operatii de baza (+, -, *, /)
 
-
 public class Tema20 {
 
     public static void main(String []args){

@@ -1,9 +1,10 @@
 //Introducere in Java si in mediul sau > Mediul de dezvoltare
-//programul va afisa un mesaj predefinit
+
+//Programul va afisa un mesaj predefinit
 
 public class Tema2 {
     public static void main (String[] args){
-        System.out.println("Hello");}
+        System.out.println("Hi");}
 }
 /* Raspunsuri Exercitii:
 1. a

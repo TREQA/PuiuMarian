@@ -1,5 +1,7 @@
 //// Java Tipuri de date si operatori > > Operatori
+
 // adunarea a doua numere
+
 public class Tema7 {
     public static void main (String[] args){
 
@@ -13,7 +15,5 @@ public class Tema7 {
         int z = x + y;
         //afisare rezultat
         System.out.println(z);
-
-
     }
 }

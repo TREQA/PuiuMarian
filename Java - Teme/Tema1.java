@@ -1,8 +1,10 @@
 // Introducere in Java si mediul sau > Introducere in Java
-// programul va aduna doua numere predefinite
+
+// Programul va aduna doua numere predefinite
+
 public class Tema1 {
     public static void main(String[]args)
-    {System.out.println(1+4);
+    {System.out.println(1+1);
     }
 }
 

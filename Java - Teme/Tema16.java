@@ -1,6 +1,7 @@
 // Java Controlul fluxului, buclele si ramificare > FOR
 
-// trebuie sa separam numele utilizatorilor si sa le stocam intr-un sir separat. Acest sir trebuie emis la iesire.
+// trebuie sa separam numele utilizatorilor si sa le stocam intr-un sir separat. Acest sir trebuie emis la iesire
+
 public class Tema16 {
     public static void main(String[]args){
         String [][] users = {{"petar", "petrovic","1111"},

@@ -1,9 +1,11 @@
 // Java Tipuri de date si operatori > Introducere tipuri de date
+
 // salvare an, salariu, functie double
+
 public class Tema5 {
     public static void main(String[] args){
-        int years;
-        double salary;
+        int an;
+        double salariu;
         double x = 15.757;
         int y = (int)x;
         System.out.println(y);

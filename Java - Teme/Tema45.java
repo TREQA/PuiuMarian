@@ -1,6 +1,6 @@
 // JAVA > Gestionarea sistemului de fisiere  > Fisiere si foldere
 /*
-Creati un program ce va muta fisierul de pe o cale pe alta ( optiunea cut ).
+Creati un program ce va muta fisierul de pe o cale pe alta ( optiunea cut )
  */
 
 

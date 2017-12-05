@@ -3,6 +3,7 @@
 // trebuie sa verificam restul impartirii dintre x si y.
 // //Daca nu exista rest, trebuie sa se afiseze mesajul ca restul nu exista,
 // in caz contrar, trebuie sa se verifice daca restul este mai mare sau mai mic decat o mie si sa se afiseze un mesaj corespunzator
+
 public class Tema13 {
     public static void main(String[] args){
 

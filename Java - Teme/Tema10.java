@@ -1,6 +1,6 @@
 //// Java Tipuri de date si operatori > > Siruri
 
-// un program care va sorta sirul dat si al iesire va da sirul vechi si cel nou
+// un program care va sorta sirul dat si la iesire va da sirul vechi si cel nou
 
 import java.util.Arrays;
 
