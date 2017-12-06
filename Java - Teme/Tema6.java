@@ -3,12 +3,15 @@
 // redenumire strings conform modelului propus
 
 public class Tema6 {
+    public static void main(String[] args) {
+        String firstUserName;
+        int BirthDate;
+        float firstOperand;
+    }
 
-    String firstUserName;
-    int BirthDate;
-    float firstOperand;
-
-    public static final short PAGE_WIDTH = 800;
+    public class whatever {
+        public static final short PAGE_WIDTH = 800;
+    }
 
     /*
     Raspunsuri:
