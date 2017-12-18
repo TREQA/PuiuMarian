@@ -25,7 +25,7 @@ Raspunsuri intrebari:
 4. a
 5. a
 6. a
-7. a
+7. b
 */
 
 
