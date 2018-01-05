@@ -6,7 +6,4 @@ public enum Culoare {
     ALBASTRU,
     GALBEN,
     ROZ;
-
-    Culoare() {
-    }
 }
