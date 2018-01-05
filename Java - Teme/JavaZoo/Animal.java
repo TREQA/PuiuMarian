@@ -7,6 +7,7 @@ public abstract class Animal {
     int dmg = 0;
 
     public int getDmg() {
+
         return this.dmg;
     }
 
